@@ -2,7 +2,7 @@
 
 Reimbursement requests are a little tricky at first, but a necessary part of getting money from SA for your committee. Below are some guidelines to how to fill out a reimbursement requests.
 
---
+====
 
 1. Make sure your reimbursement request is approve by the VP of Finance / President of SA.  
 Email the VP of Finance a week in advance of your purchase. Sometimes, smaller things can be emailed a couple days in advance. If something is urgent, then include in your subject headline "urgent" and discuss with further. **You won't get a reimbursement if you ask after you made your purchase.**
@@ -26,9 +26,9 @@ Web: http://assembly@cornell.edu
 ## FAQ
 1. *How do food purchases work?*  
 Food purchases work in two cases:  
-	* If you host an event that must have food then you *must* have a co-sponsorng organization and SA will pay cover $1 per person  
-	* If you have a committee meeting that *must* run through dinner time, then you are allowed to buy a or two pizza or low-cost sandwiches for your team. There must be a reason for requiring it happen during Dinner time.  
-tl;dr Food purchases are tricky and if you just want to buy lunch for your entire committee then that won't be allowed
+  * If you host an event that must have food then you *must* have a co-sponsorng organization and SA will pay cover $1 per person  
+  * If you have a committee meeting that *must* run through dinner time, then you are allowed to buy a or two pizza or low-cost sandwiches for your team. There must be a reason for requiring it happen during Dinner time.  
+  tl;dr Food purchases are tricky and if you just want to buy lunch for your entire committee then that won't be allowed
 
 2. What are some common reimbursement requests?  
 Common reimbursement requests should be money that is needed for your committee to function. Things like quarter-card and poster printing are acceptable to a reasonable amount. 
