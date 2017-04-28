@@ -2,6 +2,8 @@
 
 Reimbursement requests are a little tricky at first, but a necessary part of getting money from SA for your committee. Below are some guidelines to how to fill out a reimbursement requests.
 
+--
+
 1. Make sure your reimbursement request is approve by the VP of Finance / President of SA
 Email the VP of Finance a week in advance of your purchase. Sometimes, smaller things can be emailed a couple days in advance. If something is urgent, then include in your subject headline "urgent" and discuss with further. *You won't get a reimbursement if you ask after you made your purchase.*
 
@@ -9,7 +11,7 @@ Email the VP of Finance a week in advance of your purchase. Sometimes, smaller t
 
 3. Attach a receipt of your purchase(s) to your reimbursement request
 
-4. All Requests will be turned into Day Hall, Room 109 (Go down the stairs if you're coming from Tower Road)
+4. All Requests will be turned into Day Hall, Room 109 (Go down the stairs if you're coming from Tower Road)  
 **Hours are: (last updated April 28, 2017)**  
 Monday-Friday  
 9AM-12:15PM, 1-4:30PM  
