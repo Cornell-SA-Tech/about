@@ -5,7 +5,7 @@ Reimbursement requests are a little tricky at first, but a necessary part of get
 
 1. Make sure your reimbursement request is approved by the VP of Finance / SA President.  
 
-    Email the VP of Finance a week in advance of your purchase. Sometimes, smaller things can be emailed a couple days in advance. If something is urgent, then include in your subject headline "urgent". **You won't get a reimbursement if you request after you made your purchase.**
+    Email the VP of Finance a week in advance of your purchase (5 business days). Sometimes, smaller things can be emailed a couple days in advance. If something is urgent, then include in your subject headline "urgent". **You won't get a reimbursement if you request after you made your purchase.**
 
 2. You should get a reply within 2-3 days. 
 
