@@ -9,7 +9,9 @@ Reimbursement requests are a little tricky at first, but a necessary part of get
 
 2. You should get a reply within 2-3 days. 
 
-    Once it is approved, then you will fill out a reimbursement request which can be found [here](http://assembly.cornell.edu/uploads/Main/20120912_assemblies_reimbursement_request.pdf). It is a fillable PDF form so type everything out before submitting to Day Hall. You can find an example of a reimbursement request [here](example-reimbursement.pdf)
+    Once it is approved, then you will fill out a reimbursement request which can be found [here](http://assembly.cornell.edu/uploads/Main/20120912_assemblies_reimbursement_request.pdf). It is a fillable PDF form so type everything out before submitting to Day Hall. You can find an example of a reimbursement request [here](example-reimbursement.jpg).
+
+    ![alt text][example-reimbursement.jpg]
 
 3. Attach a receipt of your purchase(s) to your reimbursement request
 
