@@ -11,7 +11,7 @@ Reimbursement requests are a little tricky at first, but a necessary part of get
 
     Once it is approved, then you will fill out a reimbursement request which can be found [here](http://assembly.cornell.edu/uploads/Main/20120912_assemblies_reimbursement_request.pdf). It is a fillable PDF form so type everything out before submitting to Day Hall. You can find an example of a reimbursement request [here](example-reimbursement.jpg).
 
-    ![alt text][example-reimbursement.jpg]
+    ![example reimbursement][https://github.com/Cornell-SA-Tech/about-us/blob/master/sa-reimbursement-how-to/example-reimbursement.jpg]
 
 3. Attach a receipt of your purchase(s) to your reimbursement request
 
