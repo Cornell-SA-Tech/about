@@ -1,20 +1,13 @@
 # How to Fill Out a Reimbursement Request
 
-All Requests will be turned into Day Hall, Room 109.
+All Requests will be turned into Day Hall, Room 109.  
+Hours are: (last updated April 28, 2017)  
+Monday-Friday  
+9AM-12:15PM, 1-4:30PM  
 
-Hours are: (last updated April 28, 2017)
-
-Monday-Friday
-
-9AM-12:15PM, 1-4:30PM
-
-
-Phone: 607-255-3715
-
-Email: assembly@cornell.edu
-
+Phone: 607-255-3715  
+Email: assembly@cornell.edu  
 Web: http://assembly@cornell.edu
-
 
 You can access the form [here](http://assembly.cornell.edu/uploads/Main/20120912_assemblies_reimbursement_request.pdf). It is a fillable PDF form so type everything out before submitting to Day Hall.
 
