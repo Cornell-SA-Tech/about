@@ -4,8 +4,8 @@ Reimbursement requests are a little tricky at first, but a necessary part of get
 
 --
 
-1. Make sure your reimbursement request is approve by the VP of Finance / President of SA
-Email the VP of Finance a week in advance of your purchase. Sometimes, smaller things can be emailed a couple days in advance. If something is urgent, then include in your subject headline "urgent" and discuss with further. *You won't get a reimbursement if you ask after you made your purchase.*
+1. Make sure your reimbursement request is approve by the VP of Finance / President of SA.  
+Email the VP of Finance a week in advance of your purchase. Sometimes, smaller things can be emailed a couple days in advance. If something is urgent, then include in your subject headline "urgent" and discuss with further. **You won't get a reimbursement if you ask after you made your purchase.**
 
 2. You should get a reply within 2-3 days. Once it is approved, then you will fill out a reimbursement request which can be found [here](http://assembly.cornell.edu/uploads/Main/20120912_assemblies_reimbursement_request.pdf). It is a fillable PDF form so type everything out before submitting to Day Hall. You can find an example of a reimbursement request [here](example-reimbursement.pdf)
 
@@ -25,7 +25,6 @@ Web: http://assembly@cornell.edu
 
 ## FAQ
 1. *How do food purchases work?*  
-
 Food purchases work in two cases:  
 	* If you host an event that must have food then you *must* have a co-sponsorng organization and SA will pay cover $1 per person  
 	* If you have a committee meeting that *must* run through dinner time, then you are allowed to buy a or two pizza or low-cost sandwiches for your team. There must be a reason for requiring it happen during Dinner time.  
