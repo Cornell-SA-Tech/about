@@ -28,7 +28,7 @@ Web: http://assembly@cornell.edu
 Food purchases work in two cases:  
     * If you host an event that must have food then you *must* have a co-sponsorng organization and SA will pay cover $1 per person  
     * If you have a committee meeting that *must* run through dinner time, then you are allowed to buy a or two pizza or low-cost sandwiches for your team. There must be a reason for requiring it happen during Dinner time.  
-  tl;dr Food purchases are tricky and if you just want to buy lunch for your entire committee then that won't be allowed
+tl;dr Food purchases are tricky and if you just want to buy lunch for your entire committee then that won't be allowed
 
 2. What are some common reimbursement requests?  
 Common reimbursement requests should be money that is needed for your committee to function. Things like quarter-card and poster printing are acceptable to a reasonable amount. 
