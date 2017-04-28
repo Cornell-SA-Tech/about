@@ -31,8 +31,8 @@ Web: http://assembly@cornell.edu
 1. *How do food purchases work?*  
 
     Food purchases work in two cases:  
-    * If you host an event: you *must* have a co-sponsoring organization and SA will pay cover $1 per person  
-    * If you have a committee meeting that *must* run through dinner time (4-9PM), then you are allowed to buy a or two pizza or low-cost sandwiches for your team. There must be a real reason for requiring it happen during dinner time. 
+    * If you host an event: you *must* have a co-sponsoring organization and SA will cover $1 per person attending to cover food costs. 
+    * If you have a committee meeting that *must* run through dinner time (4-9PM), then you are allowed to buy a or two pizza or low-cost sandwiches for your team. There must be a real, justifiable reason for requiring it happen during dinner time. 
 
    tl;dr Food purchases are tricky and if you just want to buy lunch for your entire committee then that won't be allowed
 
